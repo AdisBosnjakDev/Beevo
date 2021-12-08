@@ -1,6 +1,6 @@
 <!-- Load Google Places API -->
 <script>
-	var queryString = window.location.search;
+  var queryString = window.location.search;
   var URLSearchParams_wb = new URLSearchParams(queryString);
 
   const utmParameters = [
