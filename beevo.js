@@ -1,5 +1,4 @@
 <!-- Load Google Places API -->
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDm6tiCUIKMCUitLYlOhFhrQpf884M6v8&libraries=places"></script>
 <script>
 	var queryString = window.location.search;
   var URLSearchParams_wb = new URLSearchParams(queryString);
