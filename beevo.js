@@ -1,4 +1,5 @@
 <!-- Load Google Places API -->
+console.log("imported");
 var queryString = window.location.search;
 var URLSearchParams_wb = new URLSearchParams(queryString);
 
