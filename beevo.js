@@ -19,7 +19,6 @@ for (const utm_element of utmParameters) {
 let is_address_expanded = false;
 let autocomplete;
 let expand_address = document.querySelector("#Cant-Find-Address");
-console.log(expand_address);
 let address = document.querySelector("#Lease-Address");
 let address2 = document.querySelector("#Lease-Address-2");
 let suburb = document.querySelector("#Lease-Address-3");
